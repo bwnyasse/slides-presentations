@@ -14,7 +14,7 @@ enableMenu: true
 
 July Flutter Meetup
 
-<img src="slide_qrcode.png" style="width: 40%; height: 40%"/>
+<img src="./slide_qrcode.png" style="width: 40%; height: 40%"/>
 
 ---
 
